@@ -2,4 +2,11 @@ h1 {
   text-align: center;
   colour: #666;
   font-family: 'Courier-new', monospace; 
+  font-size: 60px;
+}
+
+nav {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 45px;
 }
