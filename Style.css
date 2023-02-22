@@ -3,6 +3,8 @@ h1 {
   colour: black;
   font-family: 'Courier-new', monospace; 
   font-size:40px;
+  background-colour: #666;
+  padding: 30px;
 }
 
 nav {
