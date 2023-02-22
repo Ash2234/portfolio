@@ -1,10 +1,10 @@
 header {
+  background-colour: #666;
+  padding: 30px;
   text-align: center;
   colour: black;
   font-family: 'Courier-new', monospace; 
   font-size: 60px;
-  background-colour: #666;
-  padding: 30px;
 }
 
 nav {
