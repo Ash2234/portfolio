@@ -1,14 +1,14 @@
 header {
   text-align: center;
-  color: color-gray;
+  color: white;
   font-family: 'Courier-new', monospace; 
-  font-size: 20px;
-  background-color: color-black;
+  font-size: 40px;
+  background-color: gray;
   padding: 30px;
 }
 
 nav {
-  text-align: center;
+  float: left;
   font-family: Arial, sans-serif;
   font-size: 25px;
   color: black;
