@@ -22,7 +22,7 @@ article {
 
 .sidepanel  {
   width: 0;
-  position: fixed;
+  position: top-left;
   z-index: 1;
   height: 250px;
   top: 0;
@@ -30,15 +30,6 @@ article {
   background-color: gray;
   overflow-x: hidden;
   transition: 0.5s;
-}
-
-.sidepanel a {
-  padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-  transition: 0.3s;
 }
 
 .sidepanel a:hover {
