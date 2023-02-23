@@ -27,7 +27,7 @@ article {
   height: 250px;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: gray;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
@@ -56,12 +56,12 @@ article {
 .openbtn {
   font-size: 20px;
   cursor: pointer;
-  background-color: #111;
+  background-color: gray;
   color: white;
   padding: 10px 15px;
   border: none;
 }
 
 .openbtn:hover {
-  background-color:#444;
+  background-color:gray;
 }
