@@ -1,9 +1,9 @@
 header {
   text-align: center;
-  color: black;
+  color: color-gray;
   font-family: 'Courier-new', monospace; 
   font-size: 20px;
-  background-color: gray;
+  background-color: color-black;
   padding: 30px;
 }
 
