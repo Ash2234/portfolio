@@ -1,9 +1,9 @@
 header {
   text-align: center;
-  colour: black;
+  colour: colour-black;
   font-family: 'Courier-new', monospace; 
   font-size: 40px;
-  background-colour: gray;
+  background-colour: color-gray;
   padding: 30px;
 }
 
@@ -11,5 +11,5 @@ nav {
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 25px;
-  colour: black;
+  colour: colour-black;
 }
